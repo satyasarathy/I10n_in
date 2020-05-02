@@ -79,7 +79,7 @@
   country_id: '92'
   id: '20'
   abbr: LD
-- name: Madhya Pradesh	
+- name: Madhya Pradesh
   country_id: '92'
   id: '21'
   abbr: MP
@@ -123,7 +123,7 @@
   country_id: '92'
   id: '31'
   abbr: SK
-- name: Tamil Nadu	
+- name: Tamil Nadu
   country_id: '92'
   id: '32'
   abbr: TN
@@ -135,7 +135,7 @@
   country_id: '92'
   id: '34'
   abbr: TR
-- name: Uttar Pradesh	
+- name: Uttar Pradesh
   country_id: '92'
   id: '35'
   abbr: UP
@@ -143,7 +143,7 @@
   country_id: '92'
   id: '36'
   abbr: UT
-- name: West Bengal	
+- name: West Bengal
   country_id: '92'
   id: '37'
   abbr: WB
